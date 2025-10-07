@@ -29,7 +29,7 @@ Detail-oriented Android Developer with hands-on experience in building, maintain
 **Android Developer**  
 **Skyland | Turkish Airlines Enterprise Apps**  
 *May 2024 – April 2025*  
-- Spearheaded development and support for over 40 Android applications used by more than **80,000 internal enterprise users**, including **50,000+ cabin crew members** for flight operations.
+- Spearheaded development and support for over 20 Android applications used by more than **80,000 internal enterprise users**, including **50,000+ cabin crew members** for flight operations.
 - Played a critical role in the airline's digital transformation strategy by enhancing real-time accessibility, crew coordination, and operational workflows.
 - Implemented offline support for mission-critical tasks performed in-flight or in remote zones.
 - Integrated Firebase services (Crashlytics, Analytics, Messaging) to monitor, optimize, and maintain app stability at scale.
