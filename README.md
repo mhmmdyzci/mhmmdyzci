@@ -1,94 +1,119 @@
+
 **Muhammed YAZICI**  
 Android Developer  
-🔎 [linkedin.com/in/mhmmdyzci](https://linkedin.com/in/mhmmdyzci) • 📁 [github.com/mhmmdyzci](https://github.com/mhmmdyzci)  
+🔎 https://linkedin.com/in/mhmmdyzci • 📁 https://github.com/mhmmdyzci  
 📞 +90 536 388 2009 • ✉️ yzci.mhmmd@gmail.com  
 📍 Istanbul, Turkey  
 
 ---
 
-### 🎓 **Professional Summary**
+## 🎓 Professional Summary
 
-Detail-oriented Android Developer with hands-on experience in building, maintaining, and enhancing mobile applications. Strong foundation in Kotlin and Java, with additional exposure to iOS development, backend services, and DevOps tools. Passionate about clean architecture, scalable design, and continuous learning through real-world projects. Proven ability to deliver robust enterprise-level solutions used daily by tens of thousands of critical airline personnel.
-
----
-
-### 🔧 **Technical Skills**
-
-**Languages**: Kotlin, Java, Swift, TypeScript  
-**Mobile Frameworks**: Android Jetpack, SwiftUI  
-**Backend & APIs**: Spring Boot, REST, Firebase, AWS Parameter Store  
-**Databases**: Room, Firestore, Realm, MySQL  
-**Tools & Platforms**: Android Studio, Xcode, Git, GitHub, Bitbucket, Google Play Console, Firebase Crashlytics, JIRA  
-**Architecture**: MVVM, Clean Architecture  
-**Others**: Gradle, Retrofit, OkHttp, CI/CD
+Android Developer with **2+ years of experience** building Kotlin-based Android applications. I develop **scalable and production-ready mobile systems** using MVVM and Clean Architecture principles. Worked on enterprise Android systems at Turkish Airlines actively used by **80,000+ internal users**. Strong experience in offline-first architecture, CI/CD-supported release processes, and application stability optimization.
 
 ---
 
-### 💼 **Professional Experience**
+## 🔧 Technical Skills
 
-**Android Developer**  
-**Skyland | Turkish Airlines Enterprise Apps**  
-*May 2024 – April 2025*  
-- Spearheaded development and support for over 40 Android applications used by more than **80,000 internal enterprise users**, including **50,000+ cabin crew members** for flight operations.
-- Played a critical role in the airline's digital transformation strategy by enhancing real-time accessibility, crew coordination, and operational workflows.
-- Implemented offline support for mission-critical tasks performed in-flight or in remote zones.
-- Integrated Firebase services (Crashlytics, Analytics, Messaging) to monitor, optimize, and maintain app stability at scale.
-- Enhanced security protocols by integrating PAM (Privileged Access Management) to manage sensitive access controls.
-- Contributed to a Spring Boot backend project with AWS Parameter Store to ensure dynamic and secure configuration management.
-- Supported cross-platform mobile ecosystem by contributing to iOS applications within the enterprise suite.
+**Languages:** Kotlin, Java, Swift  
+**Mobile Frameworks:** Android Jetpack, SwiftUI  
+**Backend & APIs:** Spring Boot, REST, Firebase, AWS Parameter Store  
+**Databases:** Room, Firestore, Realm, MySQL  
+**Tools & Platforms:** Android Studio, Xcode, Git, GitHub, Bitbucket, Google Play Console, Firebase Crashlytics, JIRA, Jenkins  
+**Architecture:** MVVM, Clean Architecture  
+**Others:** Gradle, Retrofit, OkHttp, Coroutines / Flow, CI/CD  
 
-**Android Developer**  
+---
+
+## 💼 Professional Experience
+
+### Android Developer  
+**Skyland | Turkish Airlines – Enterprise Mobile Applications**  
+*June 2024 – September 2025*  
+
+- Actively contributed to development and maintenance of **20+ enterprise Android applications**.  
+- Improved performance and stability of production systems serving **80,000+ internal users**.  
+- Implemented **offline-first architecture** to support in-flight usage and low-connectivity environments.  
+- Analyzed production crashes using Firebase Crashlytics and Analytics, contributing to reduction of critical issues.  
+- Wrote **unit tests (JUnit, MockK)** and improved overall code testability.  
+- Participated in **modular architecture development** following Clean Architecture and MVVM principles.  
+- Collaborated with THY DevOps teams on **Jenkins-based CI/CD pipeline workflows**, supporting deployment and release processes.  
+- Assisted with **build verification, environment configuration, and release validation activities**.  
+- Participated in **sprint planning, refinement, and backlog grooming** sessions with business analysts.  
+- Supported backend configuration management using **Spring Boot and AWS Parameter Store**.  
+- Provided technical contributions to **iOS enterprise applications** within the mobile ecosystem.  
+- Participated in **code review processes** to maintain team-wide quality standards.  
+
+#### Projects / Links  
+📌 **TK Store – Kurumsal Mobil Uygulama Mağazası (Android & iOS)** - [TK Store ↗](https://mobil.thy.com/tkstore/)
+
+---
+
+### Android Developer  
 **Abonesepeti**  
-*March 2023 – May 2024*  
-- Developed peer-to-peer car rental functionality for Yolcu360 within the Abonesepeti Android app, improving user engagement and flexibility.
-- Integrated Google Play Billing Library to streamline and manage in-app purchases.
-- Oversaw full lifecycle management of Android apps on Google Play, including rollout, analytics, and policy compliance.
+*March 2023 – June 2024*  
 
-**Android Developer Intern**  
+- Integrated **Yolcu360 car rental module** into the Abonesepeti Android application.  
+- Implemented and managed **subscription and in-app purchase flows** using Google Play Billing Library.  
+- Improved production stability by monitoring crashes via Firebase Crashlytics.  
+- Developed **testable UI flows** using MVVM architecture.  
+- Redesigned application UI following **Material Design principles**.  
+- Managed **release cycles and store compliance processes** via Google Play Console.  
+- Implemented REST API integrations using Retrofit and OkHttp.  
+
+#### Projects / Links  
+📌 **Abonesepeti Android App** – [Google Play ↗](https://play.google.com/store/apps/details?id=com.abonesepeti.app) 
+
+---
+
+### Android Developer Intern  
 **Abonesepeti**  
-*Feb 2023 – March 2023*  
-- Improved and expanded features of existing Kotlin-based Android app.
+*February 2023 – March 2023*  
 
-**Web Developer Intern**  
+- Supported Kotlin-based Android feature development and refactoring tasks.  
+- Assisted with UI development using MVVM architecture principles.  
+
+---
+
+### Mobile Developer Intern  
 **Softtech**  
-*Aug 2022 – Sep 2022*  
-- Built a web application using Quick framework and TypeScript.
+*August 2022 – September 2022*  
+
+- Supported mobile UI development and layout improvements.  
+- Assisted REST API integration workflows including data display and error handling.  
+- Gained hands-on experience with MVVM-based project structures and mobile development practices.  
 
 ---
 
-### 📊 **Highlighted Projects**
+## 📊 Highlighted Projects
 
-**MovieHub** ([GitHub](https://github.com/mhmmdyzci/MovieHub))  
-An Android app that fetches and displays movie data from IMDb. Features include Firebase Auth, real-time Firestore DB, image sharing, and push notifications via OneSignal.  
-**Tech Used**: Kotlin, MVVM, Hilt, Room, Firebase, Retrofit, OkHttp, Glide, Lottie
+### Habitly – Habit Tracking App ([Play Store ↗](https://play.google.com/store/apps/details?id=com.muhammed.habitly))
 
-**Android Learning Portfolio** ([GitHub](https://github.com/mhmmdyzci/UdemyAndroidCourse))  
-Collection of Android mini-projects built during a comprehensive Udemy course to deepen understanding of Android fundamentals.
+Subscription-based habit tracking application.  
+Developed with notification scheduling, analytics dashboards, and Clean Architecture structure.
+
+**Tech Stack:**  
+Kotlin, MVVM + Clean Architecture, Room, Firebase, AlarmManager, Google Play Billing, Hilt  
 
 ---
 
-### 🏫 **Education**
+### Spaceflight News – Android App ([GitHub ↗](https://github.com/mhmmdyzci/MigrosOne-Case)) 
+🎥 **Uygulama Tanıtım Videosu** – [Drive ↗](https://drive.google.com/file/d/13WLBTD8SJuQyjAXGWLXCVcAk6clbQQdg/view?usp=sharing) 
+
+Modern Android application with offline support, search, and bookmarking features.
+
+**Tech Stack:**  
+Kotlin, MVVM + Clean Architecture, Retrofit, Room, Coroutines Flow, JUnit, MockK  
+
+---
+
+## 🏫 Education
 
 **B.Sc. in Computer Engineering**  
-Aydın Adnan Menderes University • 2024
-
-**Barbaros High School** • 2018
+Aydın Adnan Menderes University — 2024  
 
 ---
 
-### 🎓 **Certifications**
+## 💬 References  
 
-- Android Mobile Development (Advanced) – Udemy (2023)  
-- Git & Version Control – BTK Academy (2022)  
-- Android Mobile Development (Beginner) – Udemy (2022)
-
----
-
-### 💬 **References** *(upon request or via direct contact)*
-
-**Muhammed Abdullah ONUŞ**  
-Director, Skyland  • aonus@skylandsoft.com  • +90 544 523 0990 (WhatsApp preferred)
-
-**Deniz OKUMUŞ**  
-CEO, Abonesepeti  • do@abonesepeti.com  • +90 532 280 1978
-
+Available upon request.
