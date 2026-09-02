@@ -1,119 +1,109 @@
+<div align="center">
 
-**Muhammed YAZICI**  
-Android Developer  
-🔎 https://linkedin.com/in/mhmmdyzci • 📁 https://github.com/mhmmdyzci  
-📞 +90 536 388 2009 • ✉️ yzci.mhmmd@gmail.com  
-📍 Istanbul, Turkey  
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Muhammed%20Yaz%C4%B1c%C4%B1&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
----
+  <!-- Title & Socials -->
+  <h1>📱 Android Developer</h1>
+  <p><b>Specialized in Kotlin, Jetpack Compose, MVVM & Clean Architecture</b></p>
 
-## 🎓 Professional Summary
+  <p align="center">
+    <a href="https://linkedin.com/in/mhmmdyzci" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:yzci.mhmmd@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/mhmmdyzci" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-Android Developer with **2+ years of experience** building Kotlin-based Android applications. I develop **scalable and production-ready mobile systems** using MVVM and Clean Architecture principles. Worked on enterprise Android systems at Turkish Airlines actively used by **80,000+ internal users**. Strong experience in offline-first architecture, CI/CD-supported release processes, and application stability optimization.
-
----
-
-## 🔧 Technical Skills
-
-**Languages:** Kotlin, Java, Swift  
-**Mobile Frameworks:** Android Jetpack, SwiftUI  
-**Backend & APIs:** Spring Boot, REST, Firebase, AWS Parameter Store  
-**Databases:** Room, Firestore, Realm, MySQL  
-**Tools & Platforms:** Android Studio, Xcode, Git, GitHub, Bitbucket, Google Play Console, Firebase Crashlytics, JIRA, Jenkins  
-**Architecture:** MVVM, Clean Architecture  
-**Others:** Gradle, Retrofit, OkHttp, Coroutines / Flow, CI/CD  
+</div>
 
 ---
 
-## 💼 Professional Experience
+### 👨‍💻 About Me
 
-### Android Developer  
-**Skyland | Turkish Airlines – Enterprise Mobile Applications**  
-*June 2024 – September 2025*  
+Hello! 👋 I'm **Muhammed**, an Android Developer with **3+ years** of experience crafting high-performance, scalable, and user-centric mobile applications using **Kotlin**, **Jetpack Compose**, and **Clean Architecture**.
 
-- Actively contributed to development and maintenance of **20+ enterprise Android applications**.  
-- Improved performance and stability of production systems serving **80,000+ internal users**.  
-- Implemented **offline-first architecture** to support in-flight usage and low-connectivity environments.  
-- Analyzed production crashes using Firebase Crashlytics and Analytics, contributing to reduction of critical issues.  
-- Wrote **unit tests (JUnit, MockK)** and improved overall code testability.  
-- Participated in **modular architecture development** following Clean Architecture and MVVM principles.  
-- Collaborated with THY DevOps teams on **Jenkins-based CI/CD pipeline workflows**, supporting deployment and release processes.  
-- Assisted with **build verification, environment configuration, and release validation activities**.  
-- Participated in **sprint planning, refinement, and backlog grooming** sessions with business analysts.  
-- Supported backend configuration management using **Spring Boot and AWS Parameter Store**.  
-- Provided technical contributions to **iOS enterprise applications** within the mobile ecosystem.  
-- Participated in **code review processes** to maintain team-wide quality standards.  
-
-#### Projects / Links  
-📌 **TK Store – Kurumsal Mobil Uygulama Mağazası (Android & iOS)** - [TK Store ↗](https://mobil.thy.com/tkstore/)
+- ✈️ **Enterprise Impact:** Developed & maintained 20+ enterprise Android applications at **Skyland / Turkish Airlines**, serving **80,000+** active internal users with offline-first architecture.
+- 🚀 **Published Apps:** Built production-ready mobile apps with **10,000+ downloads** on Google Play (*AI Photo Studio*, *Habitly*, *Abonesepeti*).
+- 🏛️ **Architecture & Clean Code:** Strong expertise in **MVVM**, **Clean Architecture**, **Kotlin Coroutines & Flow**, **Hilt**, **Room**, **RevenueCat (IAP)**, and **Firebase App Check / Cloud Functions**.
+- 🎓 **Education:** B.S. in Computer Engineering from **Aydın Adnan Menderes University** ('24).
+- 🏐 **Interests:** Traveling ✈️, Animals 🐾, Volleyball 🏐 & Basketball 🏀.
 
 ---
 
-### Android Developer  
-**Abonesepeti**  
-*March 2023 – June 2024*  
+### 🛠️ Tech Stack & Skills
 
-- Integrated **Yolcu360 car rental module** into the Abonesepeti Android application.  
-- Implemented and managed **subscription and in-app purchase flows** using Google Play Billing Library.  
-- Improved production stability by monitoring crashes via Firebase Crashlytics.  
-- Developed **testable UI flows** using MVVM architecture.  
-- Redesigned application UI following **Material Design principles**.  
-- Managed **release cycles and store compliance processes** via Google Play Console.  
-- Implemented REST API integrations using Retrofit and OkHttp.  
+#### 🔤 Languages
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-#### Projects / Links  
-📌 **Abonesepeti Android App** – [Google Play ↗](https://play.google.com/store/apps/details?id=com.abonesepeti.app) 
+#### 📱 Android Development & Architecture
+<p>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose" />
+  <img src="https://img.shields.io/badge/Android%20Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM-007ACC?style=for-the-badge" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-007ACC?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-Hilt-3DDC84?style=for-the-badge" alt="Hilt" />
+  <img src="https://img.shields.io/badge/Asynchronous-Coroutines%20%26%20Flow-7F52FF?style=for-the-badge" alt="Coroutines" />
+  <img src="https://img.shields.io/badge/Database-Room-3DDC84?style=for-the-badge" alt="Room" />
+  <img src="https://img.shields.io/badge/Database-Realm-3949AB?style=for-the-badge" alt="Realm" />
+</p>
 
----
+#### ☁️ Cloud Services & Monetization
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Monetization-RevenueCat-FF4081?style=for-the-badge" alt="RevenueCat" />
+  <img src="https://img.shields.io/badge/Ads-AdMob-EA4335?style=for-the-badge&logo=googleadmob&logoColor=white" alt="AdMob" />
+</p>
 
-### Android Developer Intern  
-**Abonesepeti**  
-*February 2023 – March 2023*  
-
-- Supported Kotlin-based Android feature development and refactoring tasks.  
-- Assisted with UI development using MVVM architecture principles.  
-
----
-
-### Mobile Developer Intern  
-**Softtech**  
-*August 2022 – September 2022*  
-
-- Supported mobile UI development and layout improvements.  
-- Assisted REST API integration workflows including data display and error handling.  
-- Gained hands-on experience with MVVM-based project structures and mobile development practices.  
-
----
-
-## 📊 Highlighted Projects
-
-### Habitly – Habit Tracking App ([Play Store ↗](https://play.google.com/store/apps/details?id=com.muhammed.habitly))
-
-Subscription-based habit tracking application.  
-Developed with notification scheduling, analytics dashboards, and Clean Architecture structure.
-
-**Tech Stack:**  
-Kotlin, MVVM + Clean Architecture, Room, Firebase, AlarmManager, Google Play Billing, Hilt  
+#### 🔧 Tools & CI/CD
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Azure%20Pipelines-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 ---
 
-### Spaceflight News – Android App ([GitHub ↗](https://github.com/mhmmdyzci/MigrosOne-Case)) 
-🎥 **Uygulama Tanıtım Videosu** – [Drive ↗](https://drive.google.com/file/d/13WLBTD8SJuQyjAXGWLXCVcAk6clbQQdg/view?usp=sharing) 
+### 🚀 Featured Projects
 
-Modern Android application with offline support, search, and bookmarking features.
-
-**Tech Stack:**  
-Kotlin, MVVM + Clean Architecture, Retrofit, Room, Coroutines Flow, JUnit, MockK  
-
----
-
-## 🏫 Education
-
-**B.Sc. in Computer Engineering**  
-Aydın Adnan Menderes University — 2024  
+| Project | Description | Highlights & Tech Stack |
+| :--- | :--- | :--- |
+| 📸 **AI Photo Studio** | AI-Powered Photo & Video Editing Android Application | **10,000+ Downloads**, Background Removal, AI Retouching, Token Monetization, Firebase App Check, RevenueCat |
+| 📅 **Habitly** | Modular Habit Tracking Android Application | Modern UI with **Jetpack Compose**, MVVM + Clean Architecture, Hilt, Room, Notification Scheduling |
+| ✈️ **THY Enterprise Apps** | Flight Crew & Enterprise Android Applications (*Skyland*) | **20+ Enterprise Applications**, Offline-First Architecture, Realm/Room, Serving **80,000+** internal users |
+| 💳 **Abonesepeti** | Digital Wallet, Bill Payment & Rental Car Management App | Built Digital Wallet module, RevenueCat In-App Purchases, Yolcu360 API Integration, Mobile Insurance module |
 
 ---
 
-## 💬 References  
+### 📊 GitHub Stats
 
-Available upon request.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyzci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyzci&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="165" alt="top langs card" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmdyzci&theme=tokyonight&hide_border=true" alt="streak card" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/mhmmdyzci" target="_blank">linkedin.com/in/mhmmdyzci</a><br/>
+  ✉️ <b>Email:</b> <a href="mailto:yzci.mhmmd@gmail.com">yzci.mhmmd@gmail.com</a><br/>
+  🐙 <b>GitHub:</b> <a href="https://github.com/mhmmdyzci" target="_blank">github.com/mhmmdyzci</a>
+</p>
