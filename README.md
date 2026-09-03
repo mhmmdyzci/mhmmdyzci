@@ -20,7 +20,7 @@ Whenever I get some free time, I try to "water my repos" and make this place a l
 
 <table><tr><td valign="top" width="25%">
   
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,gitlab,bitbucket,figma,azure,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,gitlab,bitbucket,figma,gradle)](https://skillicons.dev)
 
 </td></tr></table>
 
